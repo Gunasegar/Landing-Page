@@ -185,6 +185,7 @@ input[type=submit]:hover {
 	margin: auto;
     border-radius: 9px;
     background-color: skyblue;
+    font-family: sans-serif;
     padding: 20px;
     opacity: 0.6;
     filter: alpha(opacity=60); 
